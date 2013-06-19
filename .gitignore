@@ -1,0 +1,8 @@
+erl_crash.dump
+nodec
+src/*.o
+deps/**/*.o
+deps/**/*.lo
+deps/**/*.a
+deps/**/*.la
+deps/*/*test
