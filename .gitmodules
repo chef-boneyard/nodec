@@ -1,6 +1,0 @@
-[submodule "deps/gflags"]
-	path = deps/gflags
-	url = git://github.com/schuhschuh/gflags.git
-[submodule "deps/libevent"]
-	path = deps/libevent
-	url = git://git.code.sf.net/p/levent/code
